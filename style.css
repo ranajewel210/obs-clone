@@ -1,0 +1,86 @@
+.container {
+    background-color: blueviolet;
+    /*flex-basis: 100%;*/
+    display: flex;
+    flex-direction: row;
+}
+
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    color: white;
+}
+
+
+.container1-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    color: white;
+
+}
+
+#para3 {
+    padding: 10px;
+}
+
+#para4 {
+    padding: 10px;
+}
+
+#para5 {
+    padding: 10px;
+}
+
+#para6 {
+    padding: 10px;
+}
+
+#para7 {
+
+    padding: 10px;
+}
+
+
+.container1-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+}
+
+
+
+
+#style1 {
+    height: 30px;
+    width: 30px;
+
+
+
+}
+
+#style2 {
+    height: 30px;
+    width: 30px;
+
+
+
+}
+
+#style3 {
+    height: 30px;
+    width: 30px;
+
+
+
+}
+
+#style4 {
+    height: 30px;
+    width: 30px;
+
+
+
+}
